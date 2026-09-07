@@ -1,0 +1,14 @@
+{
+    "Login": "Đăng nhập",
+    "Register": "Đăng ký",
+    "Logout": "Đăng xuất",
+    "Name": "Họ và tên",
+    "Email Address": "Địa chỉ email",
+    "Password": "Mật khẩu",
+    "Confirm Password": "Xác nhận mật khẩu",
+    "Remember Me": "Ghi nhớ đăng nhập",
+    "Forgot Your Password?": "Quên mật khẩu?",
+    "Reset Password": "Đặt lại mật khẩu",
+    "Send Password Reset Link": "Gửi liên kết đặt lại mật khẩu",
+    "Please confirm your password before continuing.": "Vui lòng xác nhận mật khẩu trước khi tiếp tục."
+}
